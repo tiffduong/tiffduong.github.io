@@ -12,15 +12,15 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://tiffduong.github.io/
-baseurl: /sustain/
+baseurl: /
 title: Tiffany Duong
 author:  Tiffany Duong
-description: Personal blog and resume
+description: Personal website and resume
 avatar: profile.png
 email: duongtiffany20@gmail.com
 github: tiffduong
 linkedin: tiffanydinhduong
- 
+  
 
 
 # needed for travis-ci build
